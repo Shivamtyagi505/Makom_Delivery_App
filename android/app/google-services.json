@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1035773790708",
+    "project_id": "makom-delivery",
+    "storage_bucket": "makom-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035773790708:android:fa8a5a3f8779b17ba5d1a1",
+        "android_client_info": {
+          "package_name": "com.example.makom_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035773790708-qr1c0dolald0jsstseq3fa17ct2un55c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf_54sXsw1tQ8zpnSDglch0wDdN_Z0Jas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035773790708-qr1c0dolald0jsstseq3fa17ct2un55c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035773790708:android:96bfd6ad75b15dfaa5d1a1",
+        "android_client_info": {
+          "package_name": "com.webdriver.makom_custom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035773790708-as8d8lm5500ts1l5fhctp713cn55fo53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webdriver.makom_custom",
+            "certificate_hash": "6bef19f1495a825b13b051740d9b420306caa8e5"
+          }
+        },
+        {
+          "client_id": "1035773790708-qr1c0dolald0jsstseq3fa17ct2un55c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf_54sXsw1tQ8zpnSDglch0wDdN_Z0Jas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035773790708-qr1c0dolald0jsstseq3fa17ct2un55c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
